@@ -1,5 +1,7 @@
 # jobpostr
  Ejercicio Adonis JS y MySQL
+ 
+ Link tutorial: https://coursetro.com/posts/code/170/Adonis-4-Tutorial---Learn-Adonis-4-in-this-Crash-Course
 
   # Adonis fullstack application
 
