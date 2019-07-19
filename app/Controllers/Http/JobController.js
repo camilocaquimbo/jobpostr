@@ -7,7 +7,7 @@ const User = use('App/Models/User')
 class JobController {
     async home({view}) {
 
-        // Create a job
+        // Create a job - Lo que crea datos de prueba
         /*
         const job = new Job;
         job.title = 'My job title';
